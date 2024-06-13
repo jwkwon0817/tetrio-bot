@@ -41,3 +41,5 @@ out/
 
 src/main/resources/application.yaml
 logs/
+gradlew
+gradlew.bat
